@@ -1,2 +1,2 @@
-# SkinLiteMamba
+# Segment
 Code will be released soon ...
